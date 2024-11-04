@@ -36,11 +36,15 @@ pip install -r requirements.txt
 
 ## Usage
 
-To execute the script, simply run:
-
-```bash
-python3 main.py
-```
+- Step 1: Clone the repository to any directory of choice by running the following command in the Command Prompt or Terminal:
+  ```bash
+  git clone "https://github.com/pundarikaksha7/Anomaly_Detection.git"
+  ```
+- Step 2: Install the requirements by following the above mentioned directions.
+- Step 3: Execute the script.
+  ```bash
+  python3 main.py
+  ```
 
 ## Data Stream Simulation Function
 
