@@ -78,6 +78,7 @@ In the script, ```the rolling_z_score``` function checks if the Z-score of the l
 **Application in Anomaly Detection**:
 If the calculated Z-score of a data point exceeds the specified threshold (commonly set to 3), it is flagged as an anomaly, indicating that it is significantly different from the previous values in the rolling window.
 
+
 ### ***Holt-Winters Forecast***
 
 **Overview**:
@@ -97,7 +98,7 @@ In the script, ```the holt_winters_forecast``` function employs the Holt-Winters
 **Application in Anomaly Detection**:
 The forecasted value is compared to the actual incoming data point. If the absolute difference between the two exceeds a specified threshold (in this case, a multiple of the       standard deviation of the data), the current point is flagged as an anomaly.
 
-## Developer:
+## Developer Details:
 - Name: Pundarikaksha
 - Institute: Indian Institute of Technology Guwahati
   
