@@ -42,8 +42,9 @@ Note : The errors thrown by running this command can be ignored.
   ```bash
   git clone "https://github.com/pundarikaksha7/Anomaly_Detection.git"
   ```
-- Step 2: Install the requirements by following the above mentioned directions.
-- Step 3: Execute the script.
+- Step 2: cd into the ```Anomaly_Detection``` directory.
+- Step 3: Install the requirements by following the above mentioned directions.
+- Step 4: Execute the script.
   ```bash
   python3 main.py
   ```
