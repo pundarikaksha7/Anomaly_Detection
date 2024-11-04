@@ -34,6 +34,8 @@ You can install the required packages using pip:
 pip install -r requirements.txt
 ```
 
+Note : The errors thrown by running this command can be ignored.
+
 ## Usage
 
 - Step 1: Clone the repository to any directory of choice by running the following command in the Command Prompt or Terminal:
